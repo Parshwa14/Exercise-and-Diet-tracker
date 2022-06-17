@@ -1,0 +1,2 @@
+# Exercise-and-Diet-tracker
+In this program we have used datetime module to print the date and time at that moment, also we have used file input/output using with open statement and used append mode to create and add in the file, the other benefit of using with open statement is that we don't have to close file because it will automatically closes the file. We have made three functions that are datetime, take and retrieve for ease.
